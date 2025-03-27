@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# AI Model Compression Techniques: Building Cheaper, Faster, and Greener AI
+This is the repository for the LinkedIn Learning course `AI Model Compression Techniques: Building Cheaper, Faster, and Greener AI`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
